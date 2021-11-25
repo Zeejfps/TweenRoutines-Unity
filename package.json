@@ -15,6 +15,6 @@
   },
   "type": "library",
   "dependencies": {
-    "com.envdev.easeroutines" : "https://github.com/Zeejfps/EaseRoutines-Unity.git"
+    "com.envdev.easeroutines" : "git://github.com/Zeejfps/EaseRoutines-Unity.git"
   }
 }
