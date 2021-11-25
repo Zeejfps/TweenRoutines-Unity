@@ -1,0 +1,16 @@
+{
+    "name": "EnvDev.TweenRoutines",
+    "rootNamespace": "",
+    "references": [
+        "GUID:8afd7b4bd8a9c0d4cad0a9795070a1d5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

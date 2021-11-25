@@ -1,0 +1,20 @@
+{
+  "name": "com.envdev.tweenroutines",
+  "version": "1.0.0-preview.1",
+  "displayName": "Tween Routines",
+  "description": "Provides number of extension methods that work in tendem with the EaseRoutines package to tween things",
+  "keywords": [
+    "Tween",
+    "Ease",
+    "Routines"
+  ],
+  "author": {
+    "name": "Evgeny Vasilyev",
+    "email": "zeejfps@gmail.com",
+    "url": "https://www.evasilyev.com"
+  },
+  "type": "library",
+  "dependencies": {
+    "com.envdev.easeroutines" : "https://github.com/Zeejfps/EaseRoutines-Unity.git"
+  }
+}
